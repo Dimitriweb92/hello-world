@@ -1,3 +1,3 @@
 # hello-world
-just another repo.
-Bonjours , je m'appelle Dimitri.
+# just another repo.
+# Bonjours , je m'appelle Dimitri.
